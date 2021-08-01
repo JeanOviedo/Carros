@@ -1,7 +1,7 @@
 
 	<?php 
 
-include 'views/header.php';
+include 'Views/header.php';
 require ('Controllers/funciones.php');
 require ('Controllers/conexion.php');
 $resultados=listarpistas($mysqli);
