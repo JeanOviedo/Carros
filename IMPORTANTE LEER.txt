@@ -4,9 +4,3 @@ Editar bd \Controllers\conexion.php todo lo referente a la BD
 
 VER DEMO https://zinuplay.com/RetoJean
 
- git config --global user.email "jeankeeoviedo@gmail.com"
-git config --global user.name "Jean Oviedo"
-git push --set-upstream origin master 
-
-git remote add origin  https://github.com/JeanOviedo/Carros.git
-git remote set-url origin git+ssh://git@github.com/JeanOviedo/Carros.git
