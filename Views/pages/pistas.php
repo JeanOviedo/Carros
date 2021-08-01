@@ -104,27 +104,8 @@ if ($clik==6) {
 }
 
 
-if ($clik==7) {
-    
-    echo" <style type='text/css'> #dados{ display:none; } </style>";
-    echo " <style type='text/css'> #nuevac{ display:none; } </style> ";
-    echo"<script type='text/javascript'>
-    function click1(){
-    window.location='pistas.php?codigo=".$codigo."&click=7'; } 
-    setTimeout(click1, 100);
-    </script>";
-}
 
-if ($clik==6) {
-    
-    echo" <style type='text/css'> #dados{ display:none; } </style>";
-    echo " <style type='text/css'> #nuevac{ display:none; } </style> ";
-    echo"<script type='text/javascript'>
-    function click1(){
-    window.location='pistas.php?codigo=".$codigo."&click=7'; } 
-    setTimeout(click1, 100);
-    </script>";
-}
+
 
 
 
